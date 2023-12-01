@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Project 1",
+    "size": 8.4
+  },
+  {
+    "id": 2,
+    "name": "Project 2",
+    "size": 5.2
+  },
+  {
+    "id": 4,
+    "name": "Project Skip",
+    "size": 12.2
+  }
+]

@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  margin:0px;
+  height:100%;
+}
+
+.ant-layout-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ant-layout-content {
+  min-height: 100%; 
+  padding: 2em 3.5em;
+}
+
+.site-layout-content {
+  background-color: white;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  height: 75vh;
+}
+
+.no-data-chart {
+  position: absolute;
+  top: 165px;
+  width: 100%;
+  text-align: center;
+}
